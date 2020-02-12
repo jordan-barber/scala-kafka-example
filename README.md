@@ -1,1 +1,1 @@
-### -> Scala Kafka Example <-
+<h1 align="center">Scala Kafka Example</h1>
