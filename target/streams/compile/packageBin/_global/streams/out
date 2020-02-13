@@ -1,15 +1,15 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/scala-learning_2.13-0.1.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	com[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/com[0m
-[0m[[0m[0mdebug[0m] [0m[0m	com/sbgcore[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/com/sbgcore[0m
-[0m[[0m[0mdebug[0m] [0m[0m	com/sbgcore/scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/com/sbgcore/scala[0m
-[0m[[0m[0mdebug[0m] [0m[0m	com/sbgcore/scala/learning[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/com/sbgcore/scala/learning[0m
-[0m[[0m[0mdebug[0m] [0m[0m	com/sbgcore/scala/learning/Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/com/sbgcore/scala/learning/Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	com/sbgcore/scala/learning/Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/com/sbgcore/scala/learning/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Produce$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/Produce$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Produce.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/Produce.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AppConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jba71/SBG-DEV/scala-learning/target/scala-2.13/classes/AppConfig.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

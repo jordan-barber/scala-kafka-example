@@ -16,6 +16,7 @@
 <a href="https://www.docker.com/">Docker</a>.**
 * Bring up <a href="https://kafka.apache.org/">Kafka</a>, Zookeeper and the schema registry using the following - 
 `docker-compose up`.
+* Visit http://localhost:9021/ go to your cluster, then topics, and add a new topic named test.
 * Ensure the above has worked, and running on the correct ports as defined in the
 `docker-compose.yml`. You can also run `docker ps` to see which port the container
 is running on.
